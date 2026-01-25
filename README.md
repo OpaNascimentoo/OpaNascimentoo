@@ -82,12 +82,12 @@ Atualmente, venho expandindo meus conhecimentos para o **desenvolvimento Full St
 
 <br clear="both" />
 
-<p>
+<!-- <p>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=OpaNascimentoo&theme=tokyonight"
     alt="GitHub Streak"
   />
-</p>
+</p>-->
 
 
 
