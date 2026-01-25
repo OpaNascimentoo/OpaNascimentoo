@@ -63,6 +63,34 @@ Atualmente, venho expandindo meus conhecimentos para o **desenvolvimento Full St
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=OpaNascimentoo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
+  />
+
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpaNascimentoo&theme=tokyonight&layout=compact&langs_count=8" 
+    alt="Top Languages"
+  />
+</p>
+
+<br clear="both" />
+
+<p>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=OpaNascimentoo&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+
 ### 🧠 Interesses
 - Desenvolvimento Full Stack
 - Integração Front-end e Back-end
